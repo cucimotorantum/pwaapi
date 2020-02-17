@@ -1,0 +1,23 @@
+{ "Product":[
+{"id":1,"name":"Azara's zorro","category":"Khaki"},
+{"id":2,"name":"Otter, north american river","category":"Khaki"},
+{"id":3,"name":"Frogmouth, tawny","category":"Pink"},
+{"id":4,"name":"Porcupine, prehensile-tailed","category":"Turquoise"},
+{"id":5,"name":"Openbill stork","category":"Crimson"},
+{"id":6,"name":"Common eland","category":"Aquamarine"},
+{"id":7,"name":"Fox, bat-eared","category":"Green"},
+{"id":8,"name":"Jackal, silver-backed","category":"Maroon"},
+{"id":9,"name":"Cottonmouth","category":"Indigo"},
+{"id":10,"name":"Eagle, african fish","category":"Khaki"},
+{"id":11,"name":"Dolphin, striped","category":"Teal"},
+{"id":12,"name":"Boat-billed heron","category":"Orange"},
+{"id":13,"name":"Bushpig","category":"Green"},
+{"id":14,"name":"Kingfisher, pied","category":"Goldenrod"},
+{"id":15,"name":"Chickadee, black-capped","category":"Blue"},
+{"id":16,"name":"Coke's hartebeest","category":"Goldenrod"},
+{"id":17,"name":"Otter, oriental short-clawed","category":"Orange"},
+{"id":18,"name":"Campo flicker","category":"Aquamarine"},
+{"id":19,"name":"Pocket gopher (unidentified)","category":"Purple"},
+{"id":20,"name":"Wallaby, tammar","category":"Maroon"}
+  ]
+}
